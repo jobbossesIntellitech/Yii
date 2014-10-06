@@ -1,0 +1,303 @@
+[17-Jan-2014 16:15:56] PHP Parse error:  syntax error, unexpected T_PAAMAYIM_NEKUDOTAYIM in /home/sochivi/public_html/beta/protected/backend/components/dashboard/wDates.php on line 17
+[19-Jan-2014 14:14:52] PHP Warning:  session_regenerate_id() [<a href='function.session-regenerate-id'>function.session-regenerate-id</a>]: Cannot regenerate session id - headers already sent in /home/sochivi/public_html/beta/yii/web/CHttpSession.php on line 182
+[20-Jan-2014 13:37:39] PHP Warning:  session_regenerate_id() [<a href='function.session-regenerate-id'>function.session-regenerate-id</a>]: Cannot regenerate session id - headers already sent in /home/sochivi/public_html/beta/yii/web/CHttpSession.php on line 182
+[23-Jan-2014 15:48:51] CSRF state token does not match one provided.
+[23-Jan-2014 15:51:32] CSRF state token does not match one provided.
+[23-Jan-2014 15:52:22] CSRF state token does not match one provided.
+[24-Jan-2014 07:52:11] PHP Fatal error:  Cannot break/continue 1 level in /home/sochivi/public_html/beta/protected/controllers/WebController.php on line 45
+[24-Jan-2014 07:52:32] CSRF state token does not match one provided.
+[24-Jan-2014 07:52:33] PHP Fatal error:  Cannot break/continue 1 level in /home/sochivi/public_html/beta/protected/controllers/WebController.php on line 46
+[24-Jan-2014 07:58:36] CSRF state token does not match one provided.
+[24-Jan-2014 07:58:36] PHP Fatal error:  Cannot break/continue 1 level in /home/sochivi/public_html/beta/protected/controllers/WebController.php on line 46
+[24-Jan-2014 08:01:17] CSRF state token does not match one provided.
+[24-Jan-2014 08:01:18] PHP Fatal error:  Cannot break/continue 1 level in /home/sochivi/public_html/beta/protected/controllers/WebController.php on line 46
+[24-Jan-2014 08:01:20] CSRF state token does not match one provided.
+[24-Jan-2014 08:01:20] PHP Fatal error:  Cannot break/continue 1 level in /home/sochivi/public_html/beta/protected/controllers/WebController.php on line 46
+[24-Jan-2014 08:01:28] CSRF state token does not match one provided.
+[24-Jan-2014 08:01:29] PHP Fatal error:  Cannot break/continue 1 level in /home/sochivi/public_html/beta/protected/controllers/WebController.php on line 46
+[24-Jan-2014 08:03:21] CSRF state token does not match one provided.
+[08-Feb-2014 12:15:12] PHP Warning:  Unterminated comment starting line 87 in /home/sochivi/public_html/beta/protected/views/layouts/main.php on line 87
+[08-Feb-2014 12:15:12] PHP Fatal error:  fatal flex scanner internal error--end of buffer missed in /home/sochivi/public_html/beta/protected/views/layouts/main.php on line 87
+[08-Feb-2014 12:23:30] PHP Parse error:  syntax error, unexpected $end in /home/sochivi/public_html/beta/protected/controllers/ItemController.php on line 198
+[08-Feb-2014 12:35:38] PHP Parse error:  syntax error, unexpected '}' in /home/sochivi/public_html/beta/protected/views/item/list.php on line 129
+[17-Feb-2014 11:08:01] CSRF state token does not match one provided.
+[17-Feb-2014 11:08:02] CSRF state token does not match one provided.
+[17-Feb-2014 11:08:03] CSRF state token does not match one provided.
+[17-Feb-2014 11:08:05] CSRF state token does not match one provided.
+[17-Feb-2014 11:08:06] CSRF state token does not match one provided.
+[17-Feb-2014 11:08:07] CSRF state token does not match one provided.
+[17-Feb-2014 11:08:09] CSRF state token does not match one provided.
+[17-Feb-2014 11:08:10] CSRF state token does not match one provided.
+[17-Feb-2014 11:08:11] CSRF state token does not match one provided.
+[17-Feb-2014 11:08:12] CSRF state token does not match one provided.
+[17-Feb-2014 11:08:13] CSRF state token does not match one provided.
+[17-Feb-2014 11:08:15] CSRF state token does not match one provided.
+[17-Feb-2014 11:08:16] CSRF state token does not match one provided.
+[17-Feb-2014 11:08:17] CSRF state token does not match one provided.
+[17-Feb-2014 11:08:18] CSRF state token does not match one provided.
+[17-Feb-2014 11:08:20] CSRF state token does not match one provided.
+[17-Feb-2014 11:08:21] CSRF state token does not match one provided.
+[17-Feb-2014 11:08:22] CSRF state token does not match one provided.
+[17-Feb-2014 11:09:35] CSRF state token does not match one provided.
+[17-Feb-2014 11:09:36] CSRF state token does not match one provided.
+[17-Feb-2014 11:09:38] CSRF state token does not match one provided.
+[17-Feb-2014 11:09:39] CSRF state token does not match one provided.
+[17-Feb-2014 11:09:40] CSRF state token does not match one provided.
+[17-Feb-2014 11:09:42] CSRF state token does not match one provided.
+[17-Feb-2014 11:09:42] CSRF state token does not match one provided.
+[17-Feb-2014 11:09:44] CSRF state token does not match one provided.
+[17-Feb-2014 11:11:12] CSRF state token does not match one provided.
+[17-Feb-2014 11:11:14] CSRF state token does not match one provided.
+[17-Feb-2014 11:11:15] CSRF state token does not match one provided.
+[17-Feb-2014 11:11:16] CSRF state token does not match one provided.
+[17-Feb-2014 11:11:18] CSRF state token does not match one provided.
+[17-Feb-2014 11:11:19] CSRF state token does not match one provided.
+[17-Feb-2014 11:11:20] CSRF state token does not match one provided.
+[17-Feb-2014 11:11:21] CSRF state token does not match one provided.
+[17-Feb-2014 11:11:22] CSRF state token does not match one provided.
+[17-Feb-2014 11:11:23] CSRF state token does not match one provided.
+[17-Feb-2014 11:11:25] CSRF state token does not match one provided.
+[17-Feb-2014 11:11:26] CSRF state token does not match one provided.
+[17-Feb-2014 11:11:28] CSRF state token does not match one provided.
+[17-Feb-2014 11:11:29] CSRF state token does not match one provided.
+[17-Feb-2014 11:11:30] CSRF state token does not match one provided.
+[17-Feb-2014 11:11:31] CSRF state token does not match one provided.
+[17-Feb-2014 11:11:32] CSRF state token does not match one provided.
+[17-Feb-2014 11:11:34] CSRF state token does not match one provided.
+[17-Feb-2014 11:13:36] CSRF state token does not match one provided.
+[17-Feb-2014 11:13:38] CSRF state token does not match one provided.
+[17-Feb-2014 11:13:39] CSRF state token does not match one provided.
+[17-Feb-2014 11:13:40] CSRF state token does not match one provided.
+[17-Feb-2014 11:13:41] CSRF state token does not match one provided.
+[17-Feb-2014 11:13:43] CSRF state token does not match one provided.
+[17-Feb-2014 11:13:44] CSRF state token does not match one provided.
+[17-Feb-2014 11:13:46] CSRF state token does not match one provided.
+[17-Feb-2014 11:13:47] CSRF state token does not match one provided.
+[17-Feb-2014 11:13:48] CSRF state token does not match one provided.
+[17-Feb-2014 11:13:49] CSRF state token does not match one provided.
+[17-Feb-2014 11:13:51] CSRF state token does not match one provided.
+[17-Feb-2014 11:13:52] CSRF state token does not match one provided.
+[17-Feb-2014 11:13:53] CSRF state token does not match one provided.
+[17-Feb-2014 11:13:55] CSRF state token does not match one provided.
+[17-Feb-2014 11:13:56] CSRF state token does not match one provided.
+[17-Feb-2014 11:13:57] CSRF state token does not match one provided.
+[17-Feb-2014 11:13:58] CSRF state token does not match one provided.
+[17-Feb-2014 11:15:39] CSRF state token does not match one provided.
+[17-Feb-2014 11:15:40] CSRF state token does not match one provided.
+[17-Feb-2014 11:15:42] CSRF state token does not match one provided.
+[17-Feb-2014 11:15:43] CSRF state token does not match one provided.
+[17-Feb-2014 11:15:44] CSRF state token does not match one provided.
+[17-Feb-2014 11:15:45] CSRF state token does not match one provided.
+[17-Feb-2014 11:15:47] CSRF state token does not match one provided.
+[17-Feb-2014 11:15:48] CSRF state token does not match one provided.
+[17-Feb-2014 11:15:49] CSRF state token does not match one provided.
+[17-Feb-2014 11:15:50] CSRF state token does not match one provided.
+[17-Feb-2014 11:15:51] CSRF state token does not match one provided.
+[17-Feb-2014 11:15:53] CSRF state token does not match one provided.
+[17-Feb-2014 11:15:54] CSRF state token does not match one provided.
+[17-Feb-2014 11:15:55] CSRF state token does not match one provided.
+[17-Feb-2014 11:15:56] CSRF state token does not match one provided.
+[17-Feb-2014 11:15:57] CSRF state token does not match one provided.
+[17-Feb-2014 11:15:59] CSRF state token does not match one provided.
+[17-Feb-2014 11:16:00] CSRF state token does not match one provided.
+[17-Feb-2014 11:16:01] CSRF state token does not match one provided.
+[17-Feb-2014 11:16:03] CSRF state token does not match one provided.
+[17-Feb-2014 11:16:04] CSRF state token does not match one provided.
+[17-Feb-2014 11:17:31] CSRF state token does not match one provided.
+[17-Feb-2014 11:17:32] CSRF state token does not match one provided.
+[17-Feb-2014 11:17:33] CSRF state token does not match one provided.
+[17-Feb-2014 11:17:34] CSRF state token does not match one provided.
+[17-Feb-2014 11:17:36] CSRF state token does not match one provided.
+[17-Feb-2014 11:17:37] CSRF state token does not match one provided.
+[17-Feb-2014 11:17:38] CSRF state token does not match one provided.
+[17-Feb-2014 11:17:40] CSRF state token does not match one provided.
+[17-Feb-2014 11:17:41] CSRF state token does not match one provided.
+[17-Feb-2014 11:17:42] CSRF state token does not match one provided.
+[17-Feb-2014 11:17:44] CSRF state token does not match one provided.
+[17-Feb-2014 11:17:45] CSRF state token does not match one provided.
+[17-Feb-2014 11:17:46] CSRF state token does not match one provided.
+[17-Feb-2014 11:17:50] CSRF state token does not match one provided.
+[17-Feb-2014 11:17:52] CSRF state token does not match one provided.
+[17-Feb-2014 11:17:53] CSRF state token does not match one provided.
+[17-Feb-2014 11:17:54] CSRF state token does not match one provided.
+[17-Feb-2014 11:17:55] CSRF state token does not match one provided.
+[17-Feb-2014 11:17:57] CSRF state token does not match one provided.
+[17-Feb-2014 11:17:58] CSRF state token does not match one provided.
+[17-Feb-2014 11:17:59] CSRF state token does not match one provided.
+[17-Feb-2014 11:18:44] CSRF state token does not match one provided.
+[17-Feb-2014 11:18:45] CSRF state token does not match one provided.
+[17-Feb-2014 11:18:46] CSRF state token does not match one provided.
+[17-Feb-2014 11:18:47] CSRF state token does not match one provided.
+[17-Feb-2014 11:18:49] CSRF state token does not match one provided.
+[17-Feb-2014 11:18:50] CSRF state token does not match one provided.
+[17-Feb-2014 11:18:51] CSRF state token does not match one provided.
+[17-Feb-2014 11:18:52] CSRF state token does not match one provided.
+[17-Feb-2014 11:18:54] CSRF state token does not match one provided.
+[17-Feb-2014 11:18:55] CSRF state token does not match one provided.
+[17-Feb-2014 11:18:56] CSRF state token does not match one provided.
+[17-Feb-2014 11:18:58] CSRF state token does not match one provided.
+[17-Feb-2014 11:18:59] CSRF state token does not match one provided.
+[17-Feb-2014 11:19:00] CSRF state token does not match one provided.
+[17-Feb-2014 11:19:01] CSRF state token does not match one provided.
+[17-Feb-2014 11:19:03] CSRF state token does not match one provided.
+[17-Feb-2014 11:19:04] CSRF state token does not match one provided.
+[17-Feb-2014 11:19:05] CSRF state token does not match one provided.
+[17-Feb-2014 11:19:06] CSRF state token does not match one provided.
+[17-Feb-2014 11:19:08] CSRF state token does not match one provided.
+[17-Feb-2014 11:19:09] CSRF state token does not match one provided.
+[17-Feb-2014 11:20:17] CSRF state token does not match one provided.
+[17-Feb-2014 11:20:24] CSRF state token does not match one provided.
+[17-Feb-2014 11:20:26] CSRF state token does not match one provided.
+[17-Feb-2014 11:20:27] CSRF state token does not match one provided.
+[17-Feb-2014 11:20:28] CSRF state token does not match one provided.
+[17-Feb-2014 11:20:29] CSRF state token does not match one provided.
+[17-Feb-2014 11:20:31] CSRF state token does not match one provided.
+[17-Feb-2014 11:20:32] CSRF state token does not match one provided.
+[17-Feb-2014 11:20:33] CSRF state token does not match one provided.
+[17-Feb-2014 11:20:34] CSRF state token does not match one provided.
+[17-Feb-2014 11:20:35] CSRF state token does not match one provided.
+[17-Feb-2014 11:20:36] CSRF state token does not match one provided.
+[17-Feb-2014 11:20:38] CSRF state token does not match one provided.
+[17-Feb-2014 11:20:39] CSRF state token does not match one provided.
+[17-Feb-2014 11:20:40] CSRF state token does not match one provided.
+[17-Feb-2014 11:20:41] CSRF state token does not match one provided.
+[17-Feb-2014 11:20:42] CSRF state token does not match one provided.
+[17-Feb-2014 11:20:43] CSRF state token does not match one provided.
+[17-Feb-2014 11:20:45] CSRF state token does not match one provided.
+[17-Feb-2014 11:20:46] CSRF state token does not match one provided.
+[17-Feb-2014 11:20:47] CSRF state token does not match one provided.
+[17-Feb-2014 11:20:48] CSRF state token does not match one provided.
+[19-Feb-2014 11:28:20] PHP Warning:  session_regenerate_id() [<a href='function.session-regenerate-id'>function.session-regenerate-id</a>]: Cannot regenerate session id - headers already sent in /home/sochivi/public_html/yii/web/CHttpSession.php on line 182
+[25-Feb-2014 09:02:57] PHP Warning:  session_regenerate_id() [<a href='function.session-regenerate-id'>function.session-regenerate-id</a>]: Cannot regenerate session id - headers already sent in /home/sochivi/public_html/yii/web/CHttpSession.php on line 182
+[26-Feb-2014 12:37:55] PHP Parse error:  syntax error, unexpected $end, expecting T_CASE or T_DEFAULT or '}' in /home/sochivi/public_html/protected/components/formgenerator/views/vEditAdsFormGenerator.php on line 71
+[27-Feb-2014 23:26:27] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 250
+[28-Feb-2014 13:09:07] CSRF state token does not match one provided.
+[28-Feb-2014 13:11:20] CSRF state token does not match one provided.
+[28-Feb-2014 13:13:14] CSRF state token does not match one provided.
+[28-Feb-2014 13:17:43] CSRF state token does not match one provided.
+[28-Feb-2014 13:18:45] CSRF state token does not match one provided.
+[28-Feb-2014 13:45:15] CSRF state token does not match one provided.
+[28-Feb-2014 13:45:46] CSRF state token does not match one provided.
+[28-Feb-2014 13:49:10] CSRF state token does not match one provided.
+[28-Feb-2014 13:49:12] CSRF state token does not match one provided.
+[28-Feb-2014 13:52:44] CSRF state token does not match one provided.
+[28-Feb-2014 13:54:55] PHP Parse error:  syntax error, unexpected $end in /home/sochivi/public_html/protected/controllers/WebController.php on line 682
+[28-Feb-2014 13:56:53] PHP Parse error:  syntax error, unexpected $end in /home/sochivi/public_html/protected/controllers/WebController.php on line 194
+[28-Feb-2014 13:59:34] CSRF state token does not match one provided.
+[01-Mar-2014 00:51:51] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 250
+[01-Mar-2014 00:55:38] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 250
+[01-Mar-2014 07:46:10] PHP Warning:  session_regenerate_id() [<a href='function.session-regenerate-id'>function.session-regenerate-id</a>]: Cannot regenerate session id - headers already sent in /home/sochivi/public_html/yii/web/CHttpSession.php on line 182
+[01-Mar-2014 13:12:19] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 250
+[01-Mar-2014 13:12:29] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 250
+[01-Mar-2014 13:13:27] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 250
+[01-Mar-2014 13:13:37] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 250
+[01-Mar-2014 13:14:24] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 250
+[01-Mar-2014 13:14:31] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 250
+[01-Mar-2014 13:15:03] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 250
+[01-Mar-2014 13:18:09] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 250
+[01-Mar-2014 13:32:48] CSRF state token does not match one provided.
+[01-Mar-2014 13:36:01] CSRF state token does not match one provided.
+[01-Mar-2014 13:50:30] CSRF state token does not match one provided.
+[01-Mar-2014 13:50:51] CSRF state token does not match one provided.
+[01-Mar-2014 13:54:54] CSRF state token does not match one provided.
+[01-Mar-2014 13:54:56] CSRF state token does not match one provided.
+[01-Mar-2014 13:55:26] CSRF state token does not match one provided.
+[03-Mar-2014 02:50:42] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 250
+[03-Mar-2014 02:50:46] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 250
+[03-Mar-2014 02:50:51] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 250
+[03-Mar-2014 09:43:15] PHP Parse error:  syntax error, unexpected T_IF in /home/sochivi/public_html/protected/components/portlet/views/vSearchForm.php on line 278
+[03-Mar-2014 09:43:21] PHP Parse error:  syntax error, unexpected T_IF in /home/sochivi/public_html/protected/components/portlet/views/vSearchForm.php on line 278
+[03-Mar-2014 09:43:44] PHP Parse error:  syntax error, unexpected T_IF in /home/sochivi/public_html/protected/components/portlet/views/vSearchForm.php on line 278
+[03-Mar-2014 11:29:41] CSRF state token does not match one provided.
+[03-Mar-2014 11:32:23] CSRF state token does not match one provided.
+[03-Mar-2014 11:32:57] CSRF state token does not match one provided.
+[03-Mar-2014 11:36:42] CSRF state token does not match one provided.
+[03-Mar-2014 11:38:23] CSRF state token does not match one provided.
+[03-Mar-2014 11:47:32] CSRF state token does not match one provided.
+[03-Mar-2014 14:37:37] PHP Parse error:  syntax error, unexpected ',' in /home/sochivi/public_html/protected/views/item/preview.php on line 24
+[03-Mar-2014 15:34:10] PHP Fatal error:  Class 'Ads' not found in /home/sochivi/public_html/protected/controllers/ItemController.php on line 47
+[04-Mar-2014 23:39:25] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 253
+[05-Mar-2014 12:50:17] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/sochivi/public_html/protected/controllers/WebController.php on line 302
+[05-Mar-2014 12:50:17] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/sochivi/public_html/protected/controllers/WebController.php on line 302
+[05-Mar-2014 21:15:51] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 253
+[06-Mar-2014 01:35:16] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 253
+[06-Mar-2014 05:18:45] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 253
+[07-Mar-2014 08:05:30] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 293
+[07-Mar-2014 11:42:15] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 293
+[07-Mar-2014 13:38:38] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 293
+[07-Mar-2014 14:39:12] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 293
+[07-Mar-2014 17:09:05] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 293
+[07-Mar-2014 17:36:22] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 293
+[07-Mar-2014 19:44:34] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 293
+[07-Mar-2014 20:00:45] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 293
+[07-Mar-2014 20:18:56] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 293
+[07-Mar-2014 20:46:56] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 293
+[07-Mar-2014 20:54:26] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 293
+[07-Mar-2014 21:09:34] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 293
+[08-Mar-2014 00:04:40] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 293
+[08-Mar-2014 00:40:54] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 293
+[08-Mar-2014 01:19:41] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 293
+[08-Mar-2014 08:08:52] PHP Warning:  session_regenerate_id() [<a href='function.session-regenerate-id'>function.session-regenerate-id</a>]: Cannot regenerate session id - headers already sent in /home/sochivi/public_html/yii/web/CHttpSession.php on line 182
+[08-Mar-2014 22:24:26] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 293
+[08-Mar-2014 22:31:36] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 293
+[08-Mar-2014 23:01:55] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 293
+[08-Mar-2014 23:13:17] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 293
+[09-Mar-2014 00:19:48] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 293
+[11-Mar-2014 02:03:37] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 293
+[11-Mar-2014 08:05:07] CSRF state token does not match one provided.
+[11-Mar-2014 10:04:55] PHP Warning:  session_regenerate_id() [<a href='function.session-regenerate-id'>function.session-regenerate-id</a>]: Cannot regenerate session id - headers already sent in /home/sochivi/public_html/yii/web/CHttpSession.php on line 182
+[11-Mar-2014 11:41:46] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 293
+[11-Mar-2014 11:55:33] PHP Parse error:  syntax error, unexpected $end in /home/sochivi/public_html/protected/components/portlet/views/vHeader.php on line 163
+[11-Mar-2014 13:44:45] PHP Parse error:  syntax error, unexpected $end in /home/sochivi/public_html/protected/components/portlet/views/vHeader.php on line 71
+[12-Mar-2014 14:48:52] PHP Warning:  session_regenerate_id() [<a href='function.session-regenerate-id'>function.session-regenerate-id</a>]: Cannot regenerate session id - headers already sent in /home/sochivi/public_html/yii/web/CHttpSession.php on line 182
+[13-Mar-2014 17:09:46] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sochivi/public_html/protected/models/system/records/Setting.php:57) in /home/sochivi/public_html/yii/web/CHttpRequest.php on line 1048
+[13-Mar-2014 17:19:58] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sochivi/public_html/protected/models/system/records/Setting.php:57) in /home/sochivi/public_html/yii/web/CHttpRequest.php on line 1048
+[13-Mar-2014 22:19:33] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sochivi/public_html/protected/models/system/records/Setting.php:57) in /home/sochivi/public_html/yii/web/CHttpRequest.php on line 1048
+[14-Mar-2014 01:54:26] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sochivi/public_html/protected/models/system/records/Setting.php:57) in /home/sochivi/public_html/yii/web/CHttpRequest.php on line 1048
+[14-Mar-2014 02:03:49] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sochivi/public_html/protected/models/system/records/Setting.php:57) in /home/sochivi/public_html/yii/web/CHttpRequest.php on line 1048
+[14-Mar-2014 02:33:30] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sochivi/public_html/protected/models/system/records/Setting.php:57) in /home/sochivi/public_html/yii/web/CHttpRequest.php on line 1048
+[14-Mar-2014 02:33:32] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sochivi/public_html/protected/models/system/records/Setting.php:57) in /home/sochivi/public_html/yii/web/CHttpRequest.php on line 1048
+[14-Mar-2014 08:12:54] PHP Fatal error:  Class 'Controller' not found in /home/sochivi/public_html/protected/controllers/WebController.php on line 2
+[15-Mar-2014 09:55:09] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 293
+[15-Mar-2014 11:57:58] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 293
+[16-Mar-2014 14:58:05] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 293
+[16-Mar-2014 17:47:40] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 293
+[16-Mar-2014 23:41:39] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 293
+[17-Mar-2014 12:38:54] PHP Parse error:  syntax error, unexpected ';' in /home/sochivi/public_html/protected/backend/views/ads/index.php on line 20
+[17-Mar-2014 12:38:57] PHP Parse error:  syntax error, unexpected ';' in /home/sochivi/public_html/protected/backend/views/ads/index.php on line 20
+[17-Mar-2014 15:30:32] PHP Fatal error:  Cannot break/continue 1 level in /home/sochivi/public_html/protected/models/sochivi/models/MemberForm.php on line 88
+[17-Mar-2014 15:30:40] PHP Fatal error:  Cannot break/continue 1 level in /home/sochivi/public_html/protected/models/sochivi/models/MemberForm.php on line 88
+[18-Mar-2014 10:49:40] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/sochivi/public_html/protected/components/formgenerator/views/vEditAdsFormGenerator.php on line 178
+[18-Mar-2014 10:49:40] PHP Parse error:  syntax error, unexpected '<' in /home/sochivi/public_html/protected/components/formgenerator/views/vEditAdsFormGenerator.php on line 178
+[18-Mar-2014 10:49:40] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/sochivi/public_html/protected/components/formgenerator/views/vEditAdsFormGenerator.php on line 178
+[18-Mar-2014 10:49:40] PHP Parse error:  syntax error, unexpected '<' in /home/sochivi/public_html/protected/components/formgenerator/views/vEditAdsFormGenerator.php on line 178
+[18-Mar-2014 11:34:00] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 293
+[24-Mar-2014 11:45:30] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 293
+[24-Mar-2014 21:21:14] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 293
+[25-Mar-2014 07:22:15] PHP Warning:  getimagesize(/home/sochivi/public_html/protected/../assets/finder/files/CMS%20blog.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/sochivi/public_html/protected/extensions/ImageProcessor.php on line 12
+[25-Mar-2014 07:22:15] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/sochivi/public_html/protected/extensions/ImageProcessor.php on line 58
+[25-Mar-2014 07:22:15] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/sochivi/public_html/protected/extensions/ImageProcessor.php on line 62
+[25-Mar-2014 07:22:15] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/sochivi/public_html/protected/extensions/ImageProcessor.php on line 150
+[25-Mar-2014 07:22:15] PHP Warning:  imagecolorat(): supplied argument is not a valid Image resource in /home/sochivi/public_html/protected/extensions/ImageProcessor.php on line 151
+[25-Mar-2014 07:22:15] PHP Warning:  imagecolortransparent(): supplied argument is not a valid Image resource in /home/sochivi/public_html/protected/extensions/ImageProcessor.php on line 151
+[25-Mar-2014 07:22:15] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/sochivi/public_html/protected/extensions/ImageProcessor.php on line 58
+[25-Mar-2014 07:22:15] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/sochivi/public_html/protected/extensions/ImageProcessor.php on line 62
+[25-Mar-2014 07:22:15] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/sochivi/public_html/protected/extensions/ImageProcessor.php on line 152
+[25-Mar-2014 07:22:15] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/sochivi/public_html/protected/extensions/ImageProcessor.php on line 154
+[25-Mar-2014 07:22:15] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/sochivi/public_html/protected/extensions/ImageProcessor.php on line 155
+[25-Mar-2014 07:22:15] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/sochivi/public_html/protected/extensions/ImageProcessor.php on line 158
+[25-Mar-2014 07:22:15] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/sochivi/public_html/protected/extensions/ImageProcessor.php on line 159
+[25-Mar-2014 07:22:15] PHP Warning:  imagefill(): supplied argument is not a valid Image resource in /home/sochivi/public_html/protected/extensions/ImageProcessor.php on line 160
+[25-Mar-2014 07:22:15] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/sochivi/public_html/protected/extensions/ImageProcessor.php on line 161
+[25-Mar-2014 07:22:15] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/sochivi/public_html/protected/extensions/ImageProcessor.php on line 164
+[25-Mar-2014 07:29:56] PHP Warning:  getimagesize(/home/sochivi/public_html/protected/../assets/finder/files/CMS%20blog.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/sochivi/public_html/protected/extensions/ImageProcessor.php on line 12
+[25-Mar-2014 08:02:06] PHP Warning:  getimagesize(/home/sochivi/public_html/protected/../assets/finder/files/CMS%20blog.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/sochivi/public_html/protected/extensions/ImageProcessor.php on line 12
+[25-Mar-2014 08:02:10] PHP Warning:  getimagesize(/home/sochivi/public_html/protected/../assets/finder/files/CMS%20blog.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/sochivi/public_html/protected/extensions/ImageProcessor.php on line 12
+[25-Mar-2014 08:02:11] PHP Warning:  getimagesize(/home/sochivi/public_html/protected/../assets/finder/files/CMS%20blog.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/sochivi/public_html/protected/extensions/ImageProcessor.php on line 12
+[25-Mar-2014 08:02:13] PHP Warning:  getimagesize(/home/sochivi/public_html/protected/../assets/finder/files/CMS%20blog.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/sochivi/public_html/protected/extensions/ImageProcessor.php on line 12
+[25-Mar-2014 10:51:45] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 293
+[25-Mar-2014 11:31:55] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 293
+[31-Mar-2014 12:27:56] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 293
+[31-Mar-2014 12:27:57] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 293
+[04-Apr-2014 14:25:50] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 293
+[04-Apr-2014 15:41:38] PHP Fatal error:  Call to undefined method stdClass::save() in /home/sochivi/public_html/protected/controllers/ItemController.php on line 293

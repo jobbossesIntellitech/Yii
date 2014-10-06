@@ -1,0 +1,1 @@
+<?php $this->widget('wFormGenerator',array('id'=>$id,'title'=>true)); ?>

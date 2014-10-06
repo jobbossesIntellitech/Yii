@@ -1,0 +1,7 @@
+<?php
+/* -- Help file for the action : index inside the controller : log -- */
+/* -- Powered by Jawdat Sobh @Code&Dot 2013 -- */	
+?>
+<div class="help default-css">
+The logs page display all actions proccessed by the user admin (trace access,success operation, error operation, warning operation).
+</div>	

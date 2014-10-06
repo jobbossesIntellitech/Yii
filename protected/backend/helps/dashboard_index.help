@@ -1,0 +1,8 @@
+<?php
+/* -- Help file for the action : index inside the controller : dashboard -- */
+/* -- Powered by Jawdat Sobh @Code&Dot -- */
+?>
+<div class="help">
+    <p>The dashboard page display many widgets on two columns</p>
+    <p>You can manage widgets displayed by clicking on configure button to choose what widgets to display and if you want to change position enable drag & drop</p>
+</div>
